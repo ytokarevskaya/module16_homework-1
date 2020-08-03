@@ -1,0 +1,16 @@
+{
+  "name": "module16_homework",
+  "version": "1.0.0",
+  "dependencies": {
+    "@jest/globals": "^26.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.5",
+    "@babel/preset-env": "^7.10.4",
+    "babel-jest": "^26.1.0",
+    "jest": "^26.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
